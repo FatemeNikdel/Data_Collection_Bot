@@ -1,0 +1,1 @@
+[17-Jan-2022 22:52:38 Asia/Tehran] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 5.6.40. in /home/soundsre/public_html/vendor/composer/platform_check.php on line 25
